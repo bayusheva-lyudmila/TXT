@@ -1,1 +1,15 @@
+summary "Basket icon don't show qantity of goods"
+project: someproject.com
+component: basket
+version 1.15.05.31
+severity s4 minor
+priority p3 low
+author Bayusheva
+assigned Ivanov
+steps to reproduse: 
+  1. login as user 
+  2. select some good using search box
+  3. press 'Add to basket' button                  
+actual result: Basket icon don't change
+expected result: Basket icon shows quantity of added goods
 
