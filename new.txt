@@ -1,0 +1,5 @@
+surname Bayusheva
+name Lyudmila
+age 36
+pet 2
+salary 100
